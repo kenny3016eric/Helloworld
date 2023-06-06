@@ -1,0 +1,15 @@
+//拉遠端程式到電腦
+1.git clone https://github.com/kenny3016eric/Helloworld.git
+
+//讓 git 追蹤程式
+2.git add .
+
+//存檔並寫下紀錄
+3.git commit -m "Uploading code"
+
+//請git上傳到github雲端
+4.git push
+
+//查看檔案追蹤情況
+//git status
+
